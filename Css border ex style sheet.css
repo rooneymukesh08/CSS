@@ -1,0 +1,33 @@
+h1
+{
+border:5px solid;
+border-color:blue;
+}
+
+h2
+{
+	border:5px dashed;
+	border-color:yellow;
+font-size:32px;
+
+}
+
+h3
+{
+	border:5px double;
+	border-color:red;
+	font-size:34px;
+}
+h4
+{
+	border:5px dotted;
+	border-color:green;
+font-size:34px;}
+
+h5
+{
+	border-style:solid dashed double dotted;
+	font-size:35px;
+	border-width:10px 8px 6px 4px;
+	border-color:blue yellow red green;
+}

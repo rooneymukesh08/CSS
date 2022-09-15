@@ -1,2 +1,2 @@
-# Css-for-beginning
-Css begining stage coding
+# Javascript (JS)
+JS begining stage coding
